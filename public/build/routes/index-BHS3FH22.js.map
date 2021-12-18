@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/index.jsx?browser", "../../../app/routes/index.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/index.jsx\";", "function index() {\n  return (\n    <div>\n      <h1>Welcome</h1>\n    </div>\n  );\n}\n\nexport default index;\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAA,iBAAiB;AACf,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI;AAAA;AAKV,IAAO,iBAAQ;",
+  "names": []
+}

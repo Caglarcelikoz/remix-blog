@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/$postId.jsx?browser", "../../../../app/routes/posts/$postId.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/$postId.jsx\";", "import { useParams } from \"remix\";\n\nfunction Post() {\n  const params = useParams();\n  return (\n    <div>\n      <h1>Post</h1>\n    </div>\n  );\n}\n\nexport default Post;\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEA,gBAAgB;AACd,QAAM,SAAS;AACf,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI;AAAA;AAKV,IAAO,iBAAQ;",
+  "names": []
+}

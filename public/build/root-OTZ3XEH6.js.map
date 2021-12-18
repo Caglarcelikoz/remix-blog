@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/root.jsx?browser", "../../app/root.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/root.jsx\";", "export default function App() {\n  return (\n    <html></html>\n  )\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,eAAe;AAC5B,SACE,oCAAC,QAAD;AAAA;",
+  "names": []
+}

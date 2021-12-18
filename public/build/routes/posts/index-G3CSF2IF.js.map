@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/index.jsx?browser", "../../../../app/routes/posts/index.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/index.jsx\";", "import { useLoaderData } from \"remix\";\nexport const loader = () => {\n  const data = {\n    posts: [\n      { id: 1, title: \"Post 1\", body: \"This is a test post\" },\n      { id: 1, title: \"Post 1\", body: \"This is a test post\" },\n      { id: 1, title: \"Post 1\", body: \"This is a test post\" },\n    ],\n  };\n  return data;\n};\nfunction PostItems() {\n  const { posts } = useLoaderData;\n  return (\n    <div>\n      <h1>Posts</h1>\n    </div>\n  );\n}\n\nexport default PostItems;\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAWA,qBAAqB;AACnB,QAAM,EAAE,UAAU;AAClB,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI;AAAA;AAKV,IAAO,gBAAQ;",
+  "names": []
+}

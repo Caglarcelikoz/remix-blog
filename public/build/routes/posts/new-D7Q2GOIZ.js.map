@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/new.jsx?browser", "../../../../app/routes/posts/new.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/new.jsx\";", "import { Link, redirect } from \"remix\";\n\nfunction New() {\n  return (\n    <>\n      <div className=\"page-header\">\n        <h1>New Post</h1>\n        <Link to=\"/posts\" className=\"btn btn-reverse\">\n          Back\n        </Link>\n      </div>\n    </>\n  );\n}\n\nexport default New;\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEA,eAAe;AACb,SACE,0DACE,oCAAC,OAAD;AAAA,IAAK,WAAU;AAAA,KACb,oCAAC,MAAD,MAAI,aACJ,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,IAAS,WAAU;AAAA,KAAkB;AAAA;AAQtD,IAAO,cAAQ;",
+  "names": []
+}

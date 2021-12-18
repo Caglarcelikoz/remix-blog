@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts.jsx?browser"],
+  "sourcesContent": ["export * from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts.jsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}

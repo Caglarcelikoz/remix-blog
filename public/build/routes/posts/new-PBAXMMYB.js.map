@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/new.jsx?browser", "../../../../app/routes/posts/new.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts/new.jsx\";", "import { Link, redirect } from 'remix'\n\nfunction New() {\n  return (\n      <>\n      </>\n  )\n}\n\nexport default New;\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAEA,eAAe;AACb,SACI;AAAA;AAKN,IAAO,cAAQ;",
+  "names": []
+}

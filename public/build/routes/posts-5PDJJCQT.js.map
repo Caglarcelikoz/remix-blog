@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts.jsx?browser", "../../../app/routes/posts.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/caglar/Documents/prive/remix/remix-blog/app/routes/posts.jsx\";", "function posts() {\n    return (\n        <div>\n            \n        </div>\n    )\n}\n\nexport default posts\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAA,iBAAiB;AACb,SACI,oCAAC,OAAD;AAAA;AAMR,IAAO,gBAAQ;",
+  "names": []
+}
